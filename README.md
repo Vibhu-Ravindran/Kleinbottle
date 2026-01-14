@@ -1,0 +1,1 @@
+Hamiltonian_terms notebook generates Hamiltonian terms which are used by the Exact_diagonalization notebook to calculate binder ratio, plot phase diagram and numerically verify the ground state symmetry charge and resulting degeneracy in the spectrum.
